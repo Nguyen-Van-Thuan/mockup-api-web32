@@ -1,36 +1,38 @@
 {
-    "concat": [
+    "product": [
         {
             "id": 1,
-            "title": "Brown elephant with Birds",
-            "color": "brown",
-            "age": 12,
-            "pictureUrl": "https://images.unsplash.com/photo-1557050543-4d5f4e07ef46?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1189&q=80",
-            "imageAlt": "good looking elphant"
+            "title": "product-1",
+            "price": 200000,
+            "rating": 8.5
         },
         {
             "id": 2,
-            "title": "Black elephant",
-            "color": "black",
-            "age": 10,
-            "pictureUrl": "https://images.unsplash.com/photo-1503286666306-61c9985f16cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=929&q=80",
-            "imageAlt": "dark elephant"
+            "title": "product-2",
+            "price": 300000,
+            "rating": 10
         },
         {
             "id": 3,
-            "title": "Blue old elephant",
-            "color": "blue",
-            "age": 19,
-            "pictureUrl": "https://images.unsplash.com/photo-1482237935571-d9b52bffe142?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80",
-            "imageAlt": "papa elephant"
+            "title": "product-3",
+            "price": 400000,
+            "rating": 5.5
         },
         {
             "id": 4,
-            "title": "Green Mamoth Elephant",
-            "color": "green",
-            "age": 8,
-            "pictureUrl": "https://images.unsplash.com/photo-1534692499281-57d0f101789b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
-            "imageAlt": "playful elephant"
+            "title": "product-4",
+            "price": 600000,
+            "rating": 9.2
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "title": "San pham rat tot"
+        },
+        {
+            "id": 2,
+            "title": "San pham rat tot"
         }
     ]
 }
